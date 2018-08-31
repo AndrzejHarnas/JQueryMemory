@@ -32,6 +32,22 @@ p
 	margin-bottom:25px;
 }
 
+#test
+{
+	width: 200px;
+	height: 60px;
+	font-family: 'Lobster', sans-serfi;
+	font-size:20px;
+	background-color:#FBFBFB;
+	color:#007FFF;
+}
+
+#test:hover
+{
+	color:#FF0033;
+	cursor:pointer;
+}
+
 .board
 {
 	width: 720px;
